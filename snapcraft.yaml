@@ -12,7 +12,7 @@ title: Alien Arena
 
 apps:
   alienarena:
-    command: source/alienarena
+    command: bin/alienarena
 parts:
   alienarena:
     # See 'snapcraft plugins'
